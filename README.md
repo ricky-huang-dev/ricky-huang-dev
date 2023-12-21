@@ -7,9 +7,6 @@ Heyo, I'm Ricky 👋 <br>I'm a full-stack developer.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ricky-huang-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ricky-huang-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ricky-huang-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ricky-huang-dev&icon=7&color=8)](https://visitcount.itsvg.in)
 
