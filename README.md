@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyo👋 I'm Ricky, a full-stack developer<br> <br> With an insatiable curiosity and a love for problem-solving, I embrace every coding challenge as an opportunity to learn and grow.<br>Always on the lookout for the latest technologies and coding practices, I'm dedicated to staying at the forefront of the ever-evolving field of software development.
+Heyo👋 I'm Ricky, a full-stack developer<br> With an insatiable curiosity and a love for problem-solving, I embrace every coding challenge as an opportunity to learn and grow.<br>Always on the lookout for the latest technologies and coding practices, I'm dedicated to staying at the forefront of the ever-evolving field of software development.
 
 Currently: <br>
 I'm currently working on some personal projects but I'm keen always keen to work on new and interesting projects <br>
